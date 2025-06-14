@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RPP\\MonteCarlo_Seq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D64B05D9-9BB0-4429-BF92-5F2C7050E98F}|MonteCarlo_OpenMP\\MonteCarlo_OpenMP.vcxproj|D:\\RPP\\MonteCarlo_Seq\\MonteCarlo_OpenMP\\MonteCarlo_OpenMP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D64B05D9-9BB0-4429-BF92-5F2C7050E98F}|MonteCarlo_OpenMP\\MonteCarlo_OpenMP.vcxproj|solutionrelative:MonteCarlo_OpenMP\\MonteCarlo_OpenMP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263837DE-EFB2-4651-9E41-E4399217FA56}|MonteCarlo_MPI\\MonteCarlo_MPI.vcxproj|D:\\RPP\\MonteCarlo_Seq\\MonteCarlo_MPI\\MonteCarlo_MPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{263837DE-EFB2-4651-9E41-E4399217FA56}|MonteCarlo_MPI\\MonteCarlo_MPI.vcxproj|solutionrelative:MonteCarlo_MPI\\MonteCarlo_MPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50152CA1-C301-43DE-A10A-B5BE3ABDE3CA}|MonteCarlo_Seq\\MonteCarlo_Seq.vcxproj|D:\\RPP\\MonteCarlo_Seq\\MonteCarlo_Seq\\monte_carlo_seq.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50152CA1-C301-43DE-A10A-B5BE3ABDE3CA}|MonteCarlo_Seq\\MonteCarlo_Seq.vcxproj|solutionrelative:MonteCarlo_Seq\\monte_carlo_seq.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "monte_carlo_seq.cpp",
+              "DocumentMoniker": "D:\\RPP\\MonteCarlo_Seq\\MonteCarlo_Seq\\monte_carlo_seq.cpp",
+              "RelativeDocumentMoniker": "MonteCarlo_Seq\\monte_carlo_seq.cpp",
+              "ToolTip": "D:\\RPP\\MonteCarlo_Seq\\MonteCarlo_Seq\\monte_carlo_seq.cpp",
+              "RelativeToolTip": "MonteCarlo_Seq\\monte_carlo_seq.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-02T02:18:01.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonteCarlo_MPI.cpp",
+              "DocumentMoniker": "D:\\RPP\\MonteCarlo_Seq\\MonteCarlo_MPI\\MonteCarlo_MPI.cpp",
+              "RelativeDocumentMoniker": "MonteCarlo_MPI\\MonteCarlo_MPI.cpp",
+              "ToolTip": "D:\\RPP\\MonteCarlo_Seq\\MonteCarlo_MPI\\MonteCarlo_MPI.cpp",
+              "RelativeToolTip": "MonteCarlo_MPI\\MonteCarlo_MPI.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-02T01:58:19.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonteCarlo_OpenMP.cpp",
+              "DocumentMoniker": "D:\\RPP\\MonteCarlo_Seq\\MonteCarlo_OpenMP\\MonteCarlo_OpenMP.cpp",
+              "RelativeDocumentMoniker": "MonteCarlo_OpenMP\\MonteCarlo_OpenMP.cpp",
+              "ToolTip": "D:\\RPP\\MonteCarlo_Seq\\MonteCarlo_OpenMP\\MonteCarlo_OpenMP.cpp*",
+              "RelativeToolTip": "MonteCarlo_OpenMP\\MonteCarlo_OpenMP.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-02T02:29:03.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 5,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
